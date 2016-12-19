@@ -6,9 +6,7 @@ import org.apache.maven.plugin.testing.AbstractMojoTestCase;
 import org.junit.Test;
 
 public class MyMojoTest extends AbstractMojoTestCase {
-	/**
-     * @throws Exception if any
-     */
+
 	@Test
     public void testSomething()
         throws Exception
